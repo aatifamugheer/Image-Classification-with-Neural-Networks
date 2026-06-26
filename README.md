@@ -30,8 +30,8 @@ A deep learning project that uses a **Convolutional Neural Network (CNN)** built
 
 The project uses the **CIFAR-10** dataset, which contains **60,000** 32×32 color images across **10 classes**:
 
-- ✈️ Airplane
-- 🚗 Automobile
+- ✈️ Plane
+- 🚗 Car
 - 🐦 Bird
 - 🐱 Cat
 - 🦌 Deer
